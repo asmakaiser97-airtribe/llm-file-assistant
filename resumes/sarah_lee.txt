@@ -1,0 +1,8 @@
+SARAH LEE
+Backend Developer
+
+EXPERIENCE
+Two years of backend development experience. Built REST APIs and automated tests.
+
+SKILLS
+Python, FastAPI, PostgreSQL, Docker.

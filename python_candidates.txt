@@ -1,0 +1,15 @@
+Candidates with Python Experience:
+
+1. John Doe
+   - Python Backend Developer
+   - 3 years of experience building web applications.
+   - Skills: Python, Django, Django REST Framework, PostgreSQL, REST APIs, Git.
+
+2. Priya Sharma
+   - Python Developer
+   - 3 years building backend applications and background tasks.
+   - Skills: Python, Django, Redis, Celery.
+
+3. Sarah Lee
+   - Backend development experience.
+   - Skills: Python, FastAPI, PostgreSQL, Docker.

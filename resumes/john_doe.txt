@@ -1,0 +1,17 @@
+JOHN DOE
+Python Backend Developer
+
+SUMMARY
+Backend developer with 3 years of experience building web applications.
+
+SKILLS
+Python, Django, Django REST Framework, PostgreSQL, REST APIs, Git.
+
+EXPERIENCE
+Developed REST APIs using Django REST Framework.
+Optimized PostgreSQL queries and fixed application bugs.
+Worked with a team to deliver backend features.
+
+EDUCATION
+Bachelor of Computer Science.
+

@@ -1,0 +1,8 @@
+PRIYA SHARMA
+Python Developer
+
+EXPERIENCE
+Three years building backend applications and background tasks.
+
+SKILLS
+Python, Django, Redis, Celery.
